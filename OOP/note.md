@@ -93,10 +93,10 @@
             
         - def sayAgain():
             - print("Hello nice to see you again")
-    ##### 调用时直接传递参数, 不必使用类名, 此为非绑定类
+    ###### 调用时直接传递参数, 不必使用类名, 此为非绑定类
     - t = Tercher()
     - t.say()
-    ##### 此处需使用类名调用方法, 因函数内没有self形参, 此为绑定类方法
+    ###### 此处需使用类名调用方法, 因函数内没有self形参, 此为绑定类方法
     - Tercher.sayAgain()
     
 - 使用类访问绑定类的方法时, 如果累方法中需要访问当前类的成员, 可以通过_class__成员名来访问
@@ -124,10 +124,17 @@
     - 在成员前面添加两个下划线
     
         - class Person():
-            ##### name 是共有成员
+            ###### name 是共有成员
             - name = "linger"
-            ##### age 是私有成员
+            ###### age 是私有成员
             - __age = 18
+        - 子类继承父类
+        - class Teacher(Person):
+            - pass
+        - 调用方法及私有属性调用
+        - t = Teacher()
+        - print(t.name)
+        - print(t._Person__age)
     - Python 的私有不是真的私有, 是一种称为 name mangling的改名策略
     - 可以使用对象._classname__attributename访问
 - 受保护的封装
@@ -138,3 +145,58 @@
     
 ## 6.2 继承
 - 继承就是一个类可以获得另一个类中的成员属性和成员方法
+- 作用: 减少代码, 增加代码的复用功能, 同事可以设置类与类直接的关系
+- 继承与被继承的概念:
+    - 被继承的类叫父类, 也叫: 基类, 超类
+    - 用于继承的类,叫: 子类, 派生类
+    - 继承与被继承一定存在一个 is-a 的关系
+- 继承的语法, 见OOP_2
+    - class Person():
+        - name = "YanYan"
+        - age = 0
+        - def Teacher(Person):
+            - print("Sleeping...")
+                
+        - t = Teacher()
+        - print(t.name)
+        - print(Teacher.name)
+- 继承的特征
+    - 所有的类都继承自object类, 即所有的类都是object的子类
+    - 子类一旦继承父类, 则可以使用弗雷中除私有成员外的所有内容
+    - 子类继承父类后并没有将父类成员完全复制到子类中, 而是通过引用关系访问调用
+    - 子类中可以定义独有的成员属性和方法
+    - 子类中定义的成员和父类成员如果相同, 则优先使用子类成员
+    - 子类如果想扩充父类的方法, 可以在定义新方法的同时访问父类成员来进行代码重用, 可以使用 [父类名.父类成员] 的格式来调用父类成员, 也可以使用 [super().父类成员] 的格式来调用
+    - 调用方法
+    - class Person():
+        - name = "NoName"
+        - age = 18
+        - __score = 0
+        - _petname = "sec"
+    
+    - def sleep(self):
+        - print("sleeping...")
+    - def work(self):
+        - print("make some money")
+        
+    - class Teacher(Person):
+        - teacher_id = "9527"
+        - name = "YanYan"
+        - def make_test(self):
+            - print("attention")
+        
+        - def work(self):
+            ###### 扩充父类功能只需要调用的函数
+        
+    - super().work()
+    - self.make_test()
+        
+    - t = Teacher()
+    - t.work()
+- 继承变量函数的查找顺序
+    - 任何情况下都会优先查找当前类的变量
+    - 没有则查找父类
+    - 构造函数: 如果本类中没有定义, 则自动查找调用父类构造函数
+    - 如果本类有定义, 则不自继续查找
+- 构造函数
+    - 是一类特殊的函数, 在类进行实例化之前进行调用
