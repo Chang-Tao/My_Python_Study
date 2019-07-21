@@ -239,4 +239,52 @@
             - 如果多个类继承了同一个父类, 孙子类中只会选取继承与法中第一个父类中的父类
 - 构造函数
     - 在对象进行实例化的时候, 系统自动调用一个函数, 通常这个函数用来对实例对象进行初始化
-    - 
+    -  构造函数一定要有, 如果没有, 则自动向上查找, 直到找到为止
+    
+## 6.3 多态
+- 多态: 同一事物的多种形态, 动物分为人类, 植物类, 爬行类
+- 多态就是同一个对象在不同的情况下有不同的状态出现
+- 多态不是语法, 是一种设计思想
+- 多态性: 一种调用方式, 不同的执行效果
+- - [多态和多态性](https://www.cnblogs.com/luchuangao/p/6739557.html)
+
+- Mixin设计模式
+    - 主要采用多继承方式对类的功能进行扩展
+    - [Mixin概念](https://www.zhihu.com/question/20778853)
+    - [MRO and Mixin](https://blog.csdn.net/robinjwong/article/details)
+    - [Mixin模式](https://www.cnblogs.com/xybaby/p/6484262.html)
+    - [Mixin MRO](https://runforever.github.io/2014-07-19/2014-07-19-python-mixin%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+    - [MRO](http://xiaocong.github.io/blog/2012/06/13/python-mixin-and-mro/)
+
+- 使用多继承语法来实现 Mixin
+- 使用Mixin实现多继承的时候要遵守一定的规则
+    - 首先他必须表示某一单一功能, 而不是某个物品或类
+    - Mixin 不能依赖于子类实现
+    - 子类即使没有继承这个 Mixin 类, 也能照常工作, 只是缺少了某个功能
+- 优点
+    - 使用 Mixin 可以在不对类进行修改的情况下扩充功能
+    - 可以方便的组织和维护不同功能组件的划分
+    - 可以根据需要任意调整功能类的组合
+    - 可以避免创建很多新的类, 导致类的继承混乱
+    
+# 6.4 类相关函数
+- issubclass: 检测一个类是不是另一个类的子类
+- isinstance: 检测一个对象是否是一个类的实例
+- hasattr: 检测一个对象是否由成员xxx
+- getattr: get attribute
+- setattr: set attribute
+- delattr: delete attribute
+- dir: 获取对象的成员列表
+
+# 6.5 类的成员描述符
+- 类的成员描述符是为了再累中对类的成员属性进行相关操作而创建的一种方式
+    - get: 获取属性
+    - set: 修改或添加属性
+    - delete: 删除属性
+- 如果想使用类的成员描述符, 大概有三种方法
+    - 使用类实现描述器
+    - 使用属性修饰符
+    - 使用 property 函数
+        - property 用法
+        - property(get, fset, fdel, doc)
+    - 案例参考
