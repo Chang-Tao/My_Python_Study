@@ -1,337 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/LOG/NOTE.MD" line="47" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="34b5dc26-f419-4095-b3f3-c06d975ab23d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/DownloadMusic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/Vol.7 遇见一帘花影 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.1 相见不如怀念 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.11 《半壶纱》专辑有声创作札记 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.14 江南弄戏，姑苏过客 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.15 暖山，君家住东坡 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.16 莲蕊蕴茶香清浅 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.17 揽把稻香，暖烟霞 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.18 风中的誓言 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.20 珂矣的小欢喜 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.21 渡风渡尘缘，修行亦修心 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.23 山浓云浅，坐看流年 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.3 共邀一场春暖花开 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.4 轻谱月满弦 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.5 一纸墨痕探芳华 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.6 多少年华自成风景 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.8 让我怎样感谢你？ (母亲节特辑).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/vol.9 衣衫上的跃动蜻蜓 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/一袖云 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/一袖云.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/半壶纱 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/半壶纱 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/半壶纱.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/墨痕 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/墨痕.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/如是 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/如是.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/寻梅 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/寻梅.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/弄戏 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/弄戏.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/忘尘谷 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/忘尘谷.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/无虑 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/无虑.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/暖山 (男女声对唱).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/暖山 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/暖山.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/月满弦 (伴奏).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/月满弦 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/月满弦.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/泼茶香 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/泼茶香.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/浮年盏 (伴奏).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/浮年盏.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/清平乐.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/渡风 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/渡风.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/缥缃醉 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/缥缃醉.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/良人遮.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/芙蓉雨 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/芙蓉雨.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/花又开 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/花又开.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/花笺 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/花笺.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/风筝误 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/风筝误.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/风誓 (纯音乐).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/刘珂矣/风誓.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/一人饮酒醉.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/一直想去看你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/七月上.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/专属情歌.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/亲密爱人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/俩俩相忘（live）.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/假装快乐.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/光.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/光年之外.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/其实都没有.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/军师.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/几分之几.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/刚好遇见你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/卡布奇诺.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/厚颜无耻.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/和你在一起.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/回不去了.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/多余感性.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/天亮以前说再见.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/天龙八部.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/如果没有遇到你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/孤独终老.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/孤花灼.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/完美的陌生人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/平凡之路.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/当真.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/忘川情.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/成全.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/成都.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/我是真的爱上你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/我的将军啊 (新版).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/我还是爱你的.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/断情冢.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/无情.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/星期天.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/李白.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/每分每秒.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/注定孤独终老.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/烟火里的尘埃.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/爱恨自扰.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/爱河.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/白羊.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/盛夏的花.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/离人愁.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/空心.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/等.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/等一分钟.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/良人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/落雨醉霓裳.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/蝶.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/解释不清.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/记忆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/该.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/说散就散 (DJ阿宝版).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/走在冷风中.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/走马.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/踏歌行.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/退.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/重新喜欢你 (节目).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/曲肖冰/静悄悄.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/5120.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/Me And You.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/一个人也会好好的.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/一个人的私奔.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/一个深爱的女孩.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/七秒钟的记忆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/万物春.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/乱世殇.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/云之凡.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/互相伤害.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/亚麻跌.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/何处笙歌落.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/你说过，我信过.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/勇敢爱.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/半月妆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/原来我是第三者.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/在樱花树下等你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/天涯残月.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/失去的爱情.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/失温恋人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/寻觅.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/幻听.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/异地恋(Cove" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/影子爱人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/忘川水.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/情人的泪.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/情侣装.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/我知道你不爱我.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/我知道你很爱她.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/新蝶恋花.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/无名指的等待.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/时线.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/时间是个骗子.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/时间爱人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/最后的安慰.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/最后的约定.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/枫语过.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/每天爱你多一点.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/江南小酒馆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/江枫渔火.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/泪雨红妆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/皇帝叫外卖.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/眷恋.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/离别.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/秋殇别恋.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/红颜笑.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/花城.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/花满庭.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/西塘有雨.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/记忆抽屉.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/该死的爱情.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/贝多芬的忧伤.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/蹁跹.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/违心的欺骗.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/那些年我们一起追的女孩.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/那些年深爱的他.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/格子兮/采梦女.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/A.I.N.Y..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/If I Were A Boy (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/Mascara.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/MyWay (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/We Are Young (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/We Will Rock You + 一无所有 + We Are The Champions (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/Where Did U Go.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/一路逆风.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/于是.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/你不是真正的快乐.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/你把我灌醉.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/依然睡公主 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/倒数 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/倒数.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/光年之外 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/光年之外.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/再见.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/写不完的温柔.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/北京北京.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/后会无期.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/听海 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/喜欢你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/囚鸟.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/回忆的沙漏.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/多远都要在一起.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/夜空中最亮的星 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/如果没有你 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/存在 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/寂寞星球的玫瑰.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/岩石里的花.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/差不多姑娘.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/心之焰.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/情人 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/我们的爱 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/我的秘密.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/我要我们在一起 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/我说了算（多芬秀发合作单曲）.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/手心的蔷薇.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/攀登 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/新的心跳.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/春天里 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/是否 (Live Piano Session).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/来自天堂的魔鬼.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/桃花诺.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/死了都要 • 爱.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/泡沫.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/漂向北方 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/漫步人生路 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/画 (Live Piano Session Ⅱ).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/盲点.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/睡公主.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/瞬间.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/穿越火线.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/红蔷薇白玫瑰.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/背叛 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/蝶恋花.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/那一夜.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/雨蝶 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/龙卷风 (Live).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/邓紫棋/龙卷风.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/人美路子野.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/今天你也拥有.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/兴欣之火.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/处暑.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/夏至.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/夜宴风波.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/大暑.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/如梦令.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/小暑.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/小满.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/年轻人要热爱祖国.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/惊蛰.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/战柔.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/折江寻情.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/春分.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/木桥小谣.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/桃花庵.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/白露.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/离人殇.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/空山新雨后.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/立夏.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/立秋.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/红昭愿 (高音质版).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/红昭愿.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/芒种.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/说客.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/谷雨.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/霜降.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/音阙诗听.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/食色.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音阙诗听/高唐.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/一念相思.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/一战破晓.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/一醉南柯.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/不夜侯.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/业火苍云歌.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/为你成全.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/主宰.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/京津有味.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/以剑为名.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/佛说.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/假面.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/元气封神.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/典狱司.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/凤隐天下.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/君临天下.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/回梦游仙.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/天下为棋.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/天命风流.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/女儿红.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/对不起我爱你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/小狐狸.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/山海如鉴.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/我的楼兰新娘.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/拂世之剑.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/无关风月.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/晋将令.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/朝闻道.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/梦徊燕云都.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/梵唱.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/江南烟雨.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/浮生未歇.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/溯世书.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/烛花红.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/爱江山更爱美人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/独白.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/琅琊榜·归殊.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/琴师.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/生死簿.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/白马入芦花.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/百鬼夜行.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/盗墓笔记·张起灵·不朽.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/盗墓笔记·无邪.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/相思局.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/秦王扫六合.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/笑红尘.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/笔墨稠.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/英雄泪.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/莫问今朝.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/说英雄谁是英雄.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/醉仙歌.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/铜雀台赋.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/长安忆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/长恨歌·第一乐章.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/闻说.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/雁门关.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/雕雕雕.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/雨巷.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/风华录.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/风骨霸刀.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫_下载音乐/音频怪物/魂归.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LOG/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LOG/NOTE.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/My_Python_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_Python_Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/包管理/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/包管理/note.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -343,20 +24,7 @@
     <favorites_list name="My_Python_Study" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫_下载音乐/DownloadMusic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -382,10 +50,21 @@
       </branch-storage>
     </excluded-from-favorite>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/包管理/note.md" />
+        <option value="$PROJECT_DIR$/爬虫_下载音乐/DownloadMusic.py" />
+        <option value="$PROJECT_DIR$/LOG/01.py" />
+        <option value="$PROJECT_DIR$/LOG/NOTE.MD" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1095" />
+    <option name="height" value="736" />
   </component>
   <component name="ProjectId" id="1OSm5nm2ej8Potjlq94JSzeNLiy" />
   <component name="ProjectLevelVcsManager">
@@ -396,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -407,12 +85,13 @@
             <path>
               <item name="My_Python_Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_Python_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫_下载音乐" type="462c0819:PsiDirectoryNode" />
+              <item name="9-调试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,7 +100,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -674,31 +353,38 @@
       <option name="project" value="LOCAL" />
       <updated>1567688640750</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="始源星&#10;2019.09.22">
+      <created>1569153099423</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569153099423</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="1400" height="820" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972714" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -744,7 +430,8 @@
     <MESSAGE value="始源星&#10;2019.08.04" />
     <MESSAGE value="始源星&#10;2019.08.10" />
     <MESSAGE value="始源星&#10;2019.09.05" />
-    <option name="LAST_COMMIT_MESSAGE" value="始源星&#10;2019.09.05" />
+    <MESSAGE value="始源星&#10;2019.09.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="始源星&#10;2019.09.22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,19 +439,91 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/调试/01.py</url>
           <line>10</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/包管理/p10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/包管理/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="443">
+            <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫_下载音乐/DownloadMusic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        <state relative-caret-position="542">
+          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Untitled Folder/shv.db.dir">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Untitled Folder/shv.db.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Untitled Folder/shv.db.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LOG/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LOG/NOTE.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="266">
+            <caret line="50" column="67" selection-start-line="50" selection-start-column="67" selection-end-line="50" selection-end-column="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/调试/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/调试/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
