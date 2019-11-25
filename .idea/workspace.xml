@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/LOG/NOTE.MD" line="47" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="34b5dc26-f419-4095-b3f3-c06d975ab23d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LOG/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LOG/NOTE.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/My_Python_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_Python_Study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-LOG/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-LOG/NOTE.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/p10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/pkg01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/pkg01/p01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/pkg02/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-包管理/pkg02/p01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP/TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP/Ubuntu_Partition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-OOP/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-调试/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-调试/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/包管理/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/包管理/note.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +41,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="My_Python_Study" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,49 +66,9 @@
       </branch-storage>
     </excluded-from-favorite>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/包管理/note.md" />
-        <option value="$PROJECT_DIR$/爬虫_下载音乐/DownloadMusic.py" />
-        <option value="$PROJECT_DIR$/LOG/01.py" />
-        <option value="$PROJECT_DIR$/LOG/NOTE.MD" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1095" />
-    <option name="height" value="736" />
-  </component>
   <component name="ProjectId" id="1OSm5nm2ej8Potjlq94JSzeNLiy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="My_Python_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My_Python_Study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My_Python_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My_Python_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="9-调试" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -114,7 +90,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DownloadMusic">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="My_Python_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-LOG" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-LOG/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Python_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Python_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,32 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/包管理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/包管理/p09.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="My_Python_Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/包管理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/包管理/p10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.01 (1)" />
         <item itemvalue="Python.DownloadMusic" />
         <item itemvalue="Python.01" />
         <item itemvalue="Python.test1" />
-        <item itemvalue="Python.p10" />
-        <item itemvalue="Python.p09" />
       </list>
     </recent_temporary>
   </component>
@@ -360,32 +336,22 @@
       <option name="project" value="LOCAL" />
       <updated>1569153099423</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="始源星&#10;2019.11.18">
+      <created>1574080463297</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574080463297</updated>
+    </task>
+    <task id="LOCAL-00019" summary="始源星&#10;2019.11.20">
+      <created>1574261012102</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574261012118</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357326" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972714" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-    </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -393,12 +359,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -431,7 +391,9 @@
     <MESSAGE value="始源星&#10;2019.08.10" />
     <MESSAGE value="始源星&#10;2019.09.05" />
     <MESSAGE value="始源星&#10;2019.09.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="始源星&#10;2019.09.22" />
+    <MESSAGE value="始源星&#10;2019.11.18" />
+    <MESSAGE value="始源星&#10;2019.11.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="始源星&#10;2019.11.20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -443,90 +405,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/包管理/p10.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/包管理/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="443">
-            <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫_下载音乐/DownloadMusic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Untitled Folder/shv.db.dir">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Untitled Folder/shv.db.bak">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Untitled Folder/shv.db.dat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LOG/01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LOG/NOTE.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="50" column="67" selection-start-line="50" selection-start-column="67" selection-end-line="50" selection-end-column="67" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/调试/01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/调试/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
