@@ -1,0 +1,20 @@
+DEBUG:root:This is a debug log.
+INFO:root:Thos is a info log.
+WARNING:root:This is a warning.log
+ERROR:root:Thos is a error.log
+CRITICAL:root:This is a critical.log
+DEBUG:root:This is a debug log.
+INFO:root:Thos is a info log.
+WARNING:root:This is a warning.log
+ERROR:root:Thos is a error.log
+CRITICAL:root:This is a critical.log
+2019-11-18 21:14:19,692======DEBUG++++++(messsage)s
+2019-11-18 21:14:19,692======INFO++++++(messsage)s
+2019-11-18 21:14:19,692======WARNING++++++(messsage)s
+2019-11-18 21:14:19,692======ERROR++++++(messsage)s
+2019-11-18 21:14:19,692======CRITICAL++++++(messsage)s
+2019-11-25 20:13:31,783======DEBUG++++++(messsage)s
+2019-11-25 20:13:31,784======INFO++++++(messsage)s
+2019-11-25 20:13:31,784======WARNING++++++(messsage)s
+2019-11-25 20:13:31,785======ERROR++++++(messsage)s
+2019-11-25 20:13:31,785======CRITICAL++++++(messsage)s

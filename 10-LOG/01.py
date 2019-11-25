@@ -1,6 +1,6 @@
 import logging
 
-LOG_FORMAT = "%(asctime)s======%(levelname)s++++++(messsage)s"
+LOG_FORMAT = "%(asctime)s======%(levelname)s++++++%(messsage)s"
 logging.basicConfig(filename="lingsha.log",level=logging.DEBUG,format=LOG_FORMAT)
 
 logging.debug("This is a debug log.")
