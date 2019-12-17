@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b5dc26-f419-4095-b3f3-c06d975ab23d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11-多线程/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-多线程/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-多线程/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-多线程/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-多线程/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-多线程/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/11-多线程/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-多线程/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/11-多线程/note.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,48 +45,20 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.02 (1)">
-    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="My_Python_Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-LOG" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-LOG/01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.04">
     <configuration name="01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Python_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Python_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +130,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11-多线程/03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="My_Python_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11-多线程/04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,13 +166,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04" />
+        <item itemvalue="Python.03" />
         <item itemvalue="Python.02 (1)" />
-        <item itemvalue="Python.01 (2)" />
         <item itemvalue="Python.02" />
-        <item itemvalue="Python.01 (1)" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.01 (2)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
@@ -338,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574690919657</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="始源星&#10;2019.11.26">
+      <created>1574775116810</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1574775116810</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +395,38 @@
     <MESSAGE value="始源星&#10;2019.11.18" />
     <MESSAGE value="始源星&#10;2019.11.20" />
     <MESSAGE value="始源星&#10;2019.11.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="始源星&#10;2019.11.25" />
+    <MESSAGE value="始源星&#10;2019.11.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="始源星&#10;2019.11.26" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="156" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576573703527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="156" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1576573703527" />
+    <state width="688" height="226" key="GridCell.Tab.0.bottom" timestamp="1576581140643">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="688" height="226" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1576581140643" />
+    <state width="688" height="226" key="GridCell.Tab.0.center" timestamp="1576581140643">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="688" height="226" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1576581140643" />
+    <state width="688" height="226" key="GridCell.Tab.0.left" timestamp="1576581140643">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="688" height="226" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1576581140643" />
+    <state width="688" height="226" key="GridCell.Tab.0.right" timestamp="1576581140643">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="688" height="226" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1576581140643" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1576577777532">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1576577777532" />
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1576577764596">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1576577764596" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

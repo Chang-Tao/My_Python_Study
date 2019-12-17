@@ -23,4 +23,13 @@
 - Python 包
     - thread: 早期版本, python3.0 改版为 _thread
     - threading: 当前通用包
-- 案例 01
+- 案例 01: 顺序执行,耗时比较长
+- 案例 02: 该用多线程, 缩短总时间, 使用_thread
+- 案例 03: 多线程, 传参数
+
+- threading 的使用
+    - 直接利用 threading.Thread 生成 Thread 实例
+        1. t = threading.Thread(target=xxx, args=(xxx, ))
+        2. t.start(): 启动多线程
+        3. t.join(): 等到多线程执行完成
+        4. 案例 04
